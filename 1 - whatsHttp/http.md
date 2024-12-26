@@ -1,0 +1,2 @@
+
+- HTTPは(**HyperTextTransferProtocol**)の略
