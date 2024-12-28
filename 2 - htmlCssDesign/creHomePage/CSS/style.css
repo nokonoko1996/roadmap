@@ -7,7 +7,8 @@ html {
   font-size:  100%;
 }
 body {
-  font-family: "Yu Gothic", "游ゴシック Medium", Yu Gothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+  font-family: "Yu Gothic", "游ゴシック Medium", Yu Gothic,
+  "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
   line-height: 1.7;
   color: #432;
 }
@@ -45,4 +46,17 @@ img {
   max-width: 1100px; /* 横幅最大1100pxの指定*/
   margin: 0 auto; /* 中央に配置する指定*/
   padding: 0 4%; /* スマホ向け余白の設定*/
+}
+
+/* HOME
+--------------------------------------------------*/
+
+.home-content {
+  /* 画面中央と余白を指定*/
+  text-align: center;
+  margin-top: 10px;
+}
+.home-content p {
+  font-size: 1.125rem;
+  margin: 10px 0 42px;
 }
