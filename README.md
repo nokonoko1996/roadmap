@@ -6,7 +6,7 @@
     - なぜインターネットが動くのか
 - [ ] HTML / CSS / JavaScriptの習得
     - 基本的な構文
-    - 基本的なAPI / Aajaxの実装I
+    - 基本的なAPI / Ajaxの実装I
 - [ ] バージョンコントロールの習得
     - Githubの習得
 - [ ] Webセキュリティ知識の習得
