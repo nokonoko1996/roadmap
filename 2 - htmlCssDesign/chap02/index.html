@@ -16,15 +16,41 @@
 <!--
     画像の挿入。alt属性は画像が
     うまく読み込めなかった場合にテキスト表示になる
-    だから、必須項目になる-->
+    だから、必須項目になる
+    -->
   <img src="images/i_noko.jpg" alt="アイコン" >
-
 <!--リンクを貼る<a>タグ-->
   <a href="https://help.vivaldi.com/ja/">vivaldi</a>
 <!--画像にリンクを貼る-->
   <a href="https://help.vivaldi.com/ja/">
     <img src="images/i_noko.jpg" alt="アイコン">
   </a>
-  
+<!--mailアドレス宛-->
+<a href="mailto:noborikawa.ko1996@gmail.com">お問い合わせ</a>
+
+<!--
+  <ul> + <li>箇条書き
+  <ol> + <li>番号付き
+  -->
+  <ul>
+    <li>たまご</li>
+    <li>玉子</li>
+  </ul>
+  <ol>
+    <li>たまご</li>
+    <li>玉子</li>
+  </ol>
+
+<!--<form>タグ-->
+<form>
+  名前：<input type="text" placeholder="Yamada Taro">
+  電話：<input type="tel" placeholder="000-xxxx-xxxx">
+  <!--ラジオボタン-->
+  性別：
+<input type="radio" name="gender" value="men"> men
+<input type="radio" name="gender" value="women" checked> women
+<input type="radio" name="gender" value="etc"> etc
+
+</form> 
 </body>
 </html>
