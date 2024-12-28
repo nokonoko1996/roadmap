@@ -17,11 +17,7 @@ a {
 img {
   max-width:  100%;
 }
-
-/* Header
--------------------------*/
-
-.logo {
+logo {
   width:  210px;
   margin-top: 14px;
 }
