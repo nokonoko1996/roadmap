@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>addEvent</title>
+</head>
+<body>
+  <button type="button">ボタン</button>
+  <script>
+    function alertMessage( ) {
+      alert("ボタンをクリックしました");
+    }
+
+    const button = document.querySelector("button");
+    button.addEventListener("click", alertMessage);
+  </script>
+</body>
+</html>
