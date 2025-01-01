@@ -4,10 +4,10 @@
 - [x] インターネットの基本を習得
     - HTTPとはなにか
     - なぜインターネットが動くのか
-- [ ] HTML / CSS / JavaScriptの習得
+- [x] HTML / CSS / JavaScriptの習得
     - 基本的な構文
     - 基本的なAPI / Ajaxの実装I
-- [ ] バージョンコントロールの習得
+- [x] バージョンコントロールの習得
     - Githubの習得
 - [ ] Webセキュリティ知識の習得
     - HTTP・CORSの習得
